@@ -24,7 +24,7 @@ comparison to installing any other Home Assistant add-on.
 first time starting the add-on).
 
 **NOTE**: Do not add this repository to Home Assistant, please use:
-`https://github.com/marciogranzotto/addons-repository`.
+`https://github.com/famouzze/addons-repository`.
 
 ## Configuration
 
@@ -140,9 +140,9 @@ based on the following:
 
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 
-[releases]: https://github.com/marciogranzotto/addon-nightscout/releases
+[releases]: https://github.com/famouzze/addon-nightscout/releases
 
-[repository]: https://github.com/marciogranzotto/addons-repository
+[repository]: https://github.com/famouzze/addons-repository
 
 [cgm-remote-monitor]: https://github.com/nightscout/cgm-remote-monitor
 
